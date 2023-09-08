@@ -1,2 +1,11 @@
 # myownone
-intro to github 
+
+
+#hello world
+
+my name is what?
+my name is what?
+
+my name is muhekarthik!
+
+
